@@ -1,0 +1,8 @@
+Name,Age,City,Marks
+Amit,20,Bangalore,85
+Sneha,21,delhi,90
+Rahul,,Mumbai,78
+Priya,22,Chennai,92
+Amit,20,Bangalore,85
+Neha,21,BANGALORE,88
+Arjun,23,Delhi,

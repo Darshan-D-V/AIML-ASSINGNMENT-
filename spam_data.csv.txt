@@ -1,0 +1,11 @@
+Message,Label
+"Win a free iPhone now",Spam
+"Limited time offer!!!",Spam
+"Call me when you are free",Not Spam
+"Meeting at 10 AM",Not Spam
+"Congratulations! You won a prize",Spam
+"Let's go for lunch",Not Spam
+"Get cash bonus now",Spam
+"Project submission tomorrow",Not Spam
+"Earn money fast online",Spam
+"Are you coming to class?",Not Spam

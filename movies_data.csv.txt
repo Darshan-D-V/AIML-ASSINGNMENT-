@@ -1,0 +1,7 @@
+Movie,Action,Comedy,Drama
+Avengers,5,1,2
+Fast&Furious,4,1,1
+Hangover,1,5,2
+Titanic,1,2,5
+John Wick,5,1,1
+3 Idiots,1,5,5

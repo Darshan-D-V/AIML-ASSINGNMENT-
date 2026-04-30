@@ -1,0 +1,109 @@
+Here’s a **ready-to-submit, high-quality assignment** for *Prompt Engineer*:
+
+---
+
+# **Assignment: Prompt Engineer**
+
+## **Name:** *[Your Name]*
+
+## **Class/Grade:** *[Your Class]*
+
+## **School:** *[Your School Name]*
+
+## **Date:** 30/03/2026
+
+## **Subject:** *[Subject Name]*
+
+---
+
+## **Objective**
+
+To understand the importance of prompt engineering by comparing weak and strong prompts across different use cases such as resume writing, business ideas, and study planning.
+
+---
+
+## **Introduction**
+
+Prompt engineering is the process of designing effective inputs to get accurate and useful outputs from AI systems. A well-structured prompt provides clarity, context, and specific instructions, while a weak prompt leads to vague or incomplete responses.
+
+---
+
+## **1. Resume Writing**
+
+### ❌ Weak Prompt:
+
+> Write a resume.
+
+### ✅ Strong Prompt:
+
+> Create a professional resume for a computer science student with skills in Python, Java, and web development. Include sections for education, skills, projects, and achievements. Keep it concise and formatted.
+
+### 🔍 Comparison:
+
+* Weak prompt lacks detail → produces generic output
+* Strong prompt gives structure, skills, and purpose → produces tailored resume
+
+---
+
+## **2. Business Idea**
+
+### ❌ Weak Prompt:
+
+> Give me a business idea.
+
+### ✅ Strong Prompt:
+
+> Suggest a unique and low-cost business idea for a college student interested in technology and sustainability. Include target audience, startup cost, and potential profit.
+
+### 🔍 Comparison:
+
+* Weak prompt → very broad and unfocused
+* Strong prompt → specific, practical, and actionable
+
+---
+
+## **3. Study Plan**
+
+### ❌ Weak Prompt:
+
+> Make a study plan.
+
+### ✅ Strong Prompt:
+
+> Create a 2-week study plan for a student preparing for exams in Mathematics and Science. Include daily topics, revision time, and short breaks.
+
+### 🔍 Comparison:
+
+* Weak prompt → unclear duration and subjects
+* Strong prompt → structured and time-bound plan
+
+---
+
+## **4. General Writing Task**
+
+### ❌ Weak Prompt:
+
+> Write something about AI.
+
+### ✅ Strong Prompt:
+
+> Write a 150-word paragraph explaining the advantages and disadvantages of Artificial Intelligence in education.
+
+### 🔍 Comparison:
+
+* Weak prompt → vague topic
+* Strong prompt → clear length, topic, and direction
+
+---
+
+## **Key Differences Between Weak and Strong Prompts**
+
+| Feature        | Weak Prompt | Strong Prompt        |
+| -------------- | ----------- | -------------------- |
+| Clarity        | Low         | High                 |
+| Detail         | Minimal     | Specific             |
+| Output Quality | Generic     | Focused and relevant |
+| Structure      | Missing     | Clearly defined      |
+
+---
+

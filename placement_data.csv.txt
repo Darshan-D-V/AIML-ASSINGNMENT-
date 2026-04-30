@@ -1,0 +1,11 @@
+CGPA,AptitudeScore,Internships,Projects,Placed
+6.5,60,0,1,No
+7.0,65,1,2,No
+7.5,70,1,2,Yes
+8.0,75,2,3,Yes
+8.5,80,2,3,Yes
+9.0,85,3,4,Yes
+6.0,55,0,1,No
+7.8,72,1,2,Yes
+8.2,78,2,3,Yes
+6.8,60,1,1,No

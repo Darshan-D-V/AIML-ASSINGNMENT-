@@ -1,0 +1,9 @@
+What Each Graph Shows:
+1.Bar Chart → Compares average marks across cities
+2.Pie Chart → Shows proportion of students from each city
+3.Histogram → Shows distribution of marks (performance spread)
+
+
+Short Data Story:
+
+The dataset reveals interesting patterns in student performance. The bar chart shows that certain cities have higher average marks, indicating better academic performance in those regions. The pie chart highlights that the majority of students come from a few major cities, suggesting uneven distribution. The histogram shows that most students score within a mid-to-high range, indicating overall good performance, with fewer students at the extremes. Missing values in marks suggest incomplete data, which may slightly affect analysis. Overall, the data reflects consistent performance with slight variation across cities.
